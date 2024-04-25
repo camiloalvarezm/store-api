@@ -1,0 +1,149 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Manzana",
+      "description": "Fresco y crujiente, rico en vitaminas y antioxidantes.",
+      "price": 4,
+      "stock": 42
+    },
+    {
+      "id": "2",
+      "name": "Plátano",
+      "description": "Maduro y delicioso, una excelente fuente de potasio.",
+      "price": 8,
+      "stock": 34
+    },
+    {
+      "id": "3",
+      "name": "Naranja",
+      "description": "Jugosa y refrescante, llena de vitamina C para fortalecer el sistema inmunológico.",
+      "price": 3,
+      "stock": 47
+    },
+    {
+      "id": "4",
+      "name": "Fresas",
+      "description": "Dulces y aromáticas, ideales para comer solas o agregar a ensaladas y postres.",
+      "price": 6,
+      "stock": 29
+    },
+    {
+      "id": "5",
+      "name": "Sandía",
+      "description": "Jugosa y refrescante, perfecta para hidratarse en días calurosos.",
+      "price": 5,
+      "stock": 56
+    },
+    {
+      "id": "6",
+      "name": "Pera",
+      "description": "Jugosa y dulce, una buena fuente de fibra y vitaminas.",
+      "price": 8,
+      "stock": 51
+    },
+    {
+      "id": "7",
+      "name": "Uvas",
+      "description": "Frescas y crujientes, ideales como bocadillo o para hacer zumo.",
+      "price": 7,
+      "stock": 35
+    },
+    {
+      "id": "8",
+      "name": "Melocotón",
+      "description": "Dulce y jugoso, una deliciosa fuente de nutrientes.",
+      "price": 4,
+      "stock": 22
+    },
+    {
+      "id": "9",
+      "name": "Piña",
+      "description": "Tropical y jugosa, rica en vitamina C y enzimas digestivas.",
+      "price": 7,
+      "stock": 65
+    },
+    {
+      "id": "10",
+      "name": "Kiwi",
+      "description": "Fresco y vibrante, lleno de vitamina C y fibra.",
+      "price": 10,
+      "stock": 75
+    },
+    {
+      "id": "11",
+      "name": "Mango",
+      "description": "Dulce y exótico, una delicia tropical llena de antioxidantes.",
+      "price": 8,
+      "stock": 57
+    },
+    {
+      "id": "12",
+      "name": "Papaya",
+      "description": "Refrescante y sabrosa, rica en enzimas digestivas y antioxidantes.",
+      "price": 9,
+      "stock": 33
+    },
+    {
+      "id": "13",
+      "name": "Cereza",
+      "description": "Dulces y jugosas, perfectas como bocadillo o para hacer postres.",
+      "price": 6,
+      "stock": 26
+    },
+    {
+      "id": "14",
+      "name": "Arándano",
+      "description": "Pequeños y sabrosos, llenos de antioxidantes y nutrientes.",
+      "price": 3,
+      "stock": 44
+    },
+    {
+      "id": "15",
+      "name": "Frambuesa",
+      "description": "Dulces y aromáticas, ricas en fibra y antioxidantes.",
+      "price": 9,
+      "stock": 12
+    },
+    {
+      "id": "16",
+      "name": "Lechuga",
+      "description": "Crunchy y saludable, ideal para ensaladas y sándwiches.",
+      "price": 5,
+      "stock": 40
+    },
+    {
+      "id": "17",
+      "name": "Tomate",
+      "description": "Versátil y sabroso, esencial en ensaladas y salsas.",
+      "price": 4,
+      "stock": 37
+    },
+    {
+      "id": "18",
+      "name": "Zanahoria",
+      "description": "Fresca y crujiente, llena de vitaminas y betacarotenos.",
+      "price": 3,
+      "stock": 50
+    },
+    {
+      "id": "19",
+      "name": "Pimiento",
+      "description": "Dulce y crujiente, ideal para ensaladas y guisos.",
+      "price": 6,
+      "stock": 61
+    }
+  ],
+  "client-users": [
+    {
+      "email": "cliente@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "admin-users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "123456"
+    }
+  ]
+}

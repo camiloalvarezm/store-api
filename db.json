@@ -6,7 +6,7 @@
       "description": "Fresco y crujiente, rico en vitaminas y antioxidantes.",
       "price": 2123,
       "stock": 42,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "2",
@@ -14,7 +14,7 @@
       "description": "Maduro y delicioso, una excelente fuente de potasio.",
       "price": 7564,
       "stock": 34,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "3",
@@ -22,7 +22,7 @@
       "description": "Jugosa y refrescante, llena de vitamina C para fortalecer el sistema inmunológico.",
       "price": 4657,
       "stock": 47,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "4",
@@ -30,7 +30,7 @@
       "description": "Dulces y aromáticas, ideales para comer solas o agregar a ensaladas y postres.",
       "price": 3162,
       "stock": 29,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "5",
@@ -38,7 +38,7 @@
       "description": "Jugosa y refrescante, perfecta para hidratarse en días calurosos.",
       "price": 5985,
       "stock": 56,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "6",
@@ -46,7 +46,7 @@
       "description": "Jugosa y dulce, una buena fuente de fibra y vitaminas.",
       "price": 7201,
       "stock": 51,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "7",
@@ -54,7 +54,7 @@
       "description": "Frescas y crujientes, ideales como bocadillo o para hacer zumo.",
       "price": 1994,
       "stock": 35,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "8",
@@ -62,7 +62,7 @@
       "description": "Dulce y jugoso, una deliciosa fuente de nutrientes.",
       "price": 4423,
       "stock": 22,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "9",
@@ -70,7 +70,7 @@
       "description": "Tropical y jugosa, rica en vitamina C y enzimas digestivas.",
       "price": 6745,
       "stock": 65,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "10",
@@ -78,7 +78,7 @@
       "description": "Fresco y vibrante, lleno de vitamina C y fibra.",
       "price": 3499,
       "stock": 75,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "11",
@@ -86,7 +86,7 @@
       "description": "Dulce y exótico, una delicia tropical llena de antioxidantes.",
       "price": 5710,
       "stock": 57,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "12",
@@ -94,7 +94,7 @@
       "description": "Refrescante y sabrosa, rica en enzimas digestivas y antioxidantes.",
       "price": 8186,
       "stock": 33,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "13",
@@ -102,7 +102,7 @@
       "description": "Dulces y aromáticas, ricas en fibra y antioxidantes.",
       "price": 9617,
       "stock": 12,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id": "14",
@@ -110,7 +110,7 @@
       "description": "Pequeños y sabrosos, llenos de antioxidantes y nutrientes.",
       "price": 6302,
       "stock": 44,
-      "quantity": 0
+      "quantity": 1
     }
   ],
   "client-users": [

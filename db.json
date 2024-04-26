@@ -95,6 +95,22 @@
       "price": 8186,
       "stock": 33,
       "quantity": 0
+    },
+    {
+      "id": "13",
+      "name": "Cereza",
+      "description": "Dulces y jugosas, perfectas como bocadillo o para hacer postres.",
+      "price": 2335,
+      "stock": 26,
+      "quantity": 0
+    },
+    {
+      "id": "14",
+      "name": "Arándano",
+      "description": "Pequeños y sabrosos, llenos de antioxidantes y nutrientes.",
+      "price": 6302,
+      "stock": 44,
+      "quantity": 0
     }
   ],
   "client-users": [

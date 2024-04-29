@@ -6,7 +6,8 @@
       "description": "Fresco y crujiente, rico en vitaminas y antioxidantes.",
       "price": 2123,
       "stock": 42,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "manzana"
     },
     {
@@ -15,7 +16,8 @@
       "description": "Maduro y delicioso, una excelente fuente de potasio.",
       "price": 7564,
       "stock": 34,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "platano"
     },
     {
@@ -24,7 +26,8 @@
       "description": "Jugosa y refrescante, llena de vitamina C para fortalecer el sistema inmunológico.",
       "price": 4657,
       "stock": 47,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "naranja"
     },
     {
@@ -33,7 +36,8 @@
       "description": "Dulces y aromáticas, ideales para comer solas o agregar a ensaladas y postres.",
       "price": 3162,
       "stock": 29,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "fresas"
     },
     {
@@ -42,7 +46,8 @@
       "description": "Jugosa y refrescante, perfecta para hidratarse en días calurosos.",
       "price": 5985,
       "stock": 56,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "sandia"
     },
     {
@@ -51,7 +56,8 @@
       "description": "Jugosa y dulce, una buena fuente de fibra y vitaminas.",
       "price": 7201,
       "stock": 51,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "pera"
     },
     {
@@ -60,7 +66,8 @@
       "description": "Frescas y crujientes, ideales como bocadillo o para hacer zumo.",
       "price": 1994,
       "stock": 35,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "uvas"
     },
     {
@@ -69,7 +76,8 @@
       "description": "Dulce y jugoso, una deliciosa fuente de nutrientes.",
       "price": 4423,
       "stock": 22,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "melocoton"
     },
     {
@@ -78,7 +86,8 @@
       "description": "Tropical y jugosa, rica en vitamina C y enzimas digestivas.",
       "price": 6745,
       "stock": 65,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "pina"
     },
     {
@@ -87,7 +96,8 @@
       "description": "Fresco y vibrante, lleno de vitamina C y fibra.",
       "price": 3499,
       "stock": 75,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "kiwi"
     },
     {
@@ -96,7 +106,8 @@
       "description": "Dulce y exótico, una delicia tropical llena de antioxidantes.",
       "price": 5710,
       "stock": 57,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "mango"
     },
     {
@@ -105,7 +116,8 @@
       "description": "Refrescante y sabrosa, rica en enzimas digestivas y antioxidantes.",
       "price": 8186,
       "stock": 33,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "papaya"
     },
     {
@@ -114,7 +126,8 @@
       "description": "Dulces y aromáticas, ricas en fibra y antioxidantes.",
       "price": 9617,
       "stock": 12,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "frambuesas"
     },
     {
@@ -123,7 +136,8 @@
       "description": "Pequeños y sabrosos, llenos de antioxidantes y nutrientes.",
       "price": 6302,
       "stock": 44,
-      "quantity": 1,
+      "selectedQuantity": 1,
+      "cartQuantity": 0,
       "imgPath": "arandanos"
     }
   ],
